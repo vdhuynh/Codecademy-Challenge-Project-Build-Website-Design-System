@@ -1,0 +1,24 @@
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
+
+.colors .color {
+  display: flex;
+  align-items: center;
+}
+
+.colors .color-box {
+  width: 50px;
+  height: 50px;
+}
+
+.fonts .font {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.text-styles .main-heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333333;
+}
